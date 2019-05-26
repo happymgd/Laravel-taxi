@@ -1,0 +1,2 @@
+[24-Jan-2019 10:43:55 UTC] PHP Fatal error:  Out of memory (allocated 329437184) (tried to allocate 9619720 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Cache.php on line 94
+[24-Jan-2019 10:46:58 UTC] PHP Fatal error:  Out of memory (allocated 329437184) (tried to allocate 9619720 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Util/RemoteFilesystem.php on line 459
